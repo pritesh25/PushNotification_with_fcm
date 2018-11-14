@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387805803424",
+    "firebase_url": "https://selfielife-af811.firebaseio.com",
+    "project_id": "selfielife-af811",
+    "storage_bucket": "selfielife-af811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387805803424:android:98984046f5f19651",
+        "android_client_info": {
+          "package_name": "com.selfie.life.selfielife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387805803424-t1n9jne4ra609ajtq2l82gp89ujf9quu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selfie.life.selfielife",
+            "certificate_hash": "8acd0e5650c81cd0ba8ed5b7d58f0bf25f480353"
+          }
+        },
+        {
+          "client_id": "387805803424-gv41155d9pvcdk4gpol41del9j8k5k4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLVF55GniCs6aGvvEPIoxZVzbFvWT3Bxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387805803424-gv41155d9pvcdk4gpol41del9j8k5k4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
